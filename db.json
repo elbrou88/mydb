@@ -375,6 +375,53 @@
         "etat": "Occasion",
         "description": "Jeux de ......",
         "operation": "Salle"
+      },
+      {
+        "id": 3,
+        "name": "Fortnite",
+        "prix": "15",
+        "quantite": 1,
+        "categorie": "1",
+        "plateforme": "PS4",
+        "etat": "Occasion",
+        "description": "Jeux de ......",
+        "operation": "Salle"
+      },
+      {
+        "id": 3,
+        "name": "Fortnite",
+        "prix": "15",
+        "quantite": 1,
+        "categorie": "1",
+        "plateforme": "PS4",
+        "etat": "Occasion",
+        "description": "Jeux de ......",
+        "operation": "Salle"
+      },
+      {
+        "prix": "",
+        "quantite": "",
+        "categorie": "",
+        "plateforme": "",
+        "etat": "",
+        "description": "",
+        "operation": "",
+        "name": "aaa",
+        "id": 4
+      }
+    ],
+    "users": [
+      {
+        "Id": 0,
+        "Username": "playspace",
+        "Password": "Play123space",
+        "Role": "admin"
+      },
+      {
+        "Id": 1,
+        "Username": "a",
+        "Password": "a",
+        "Role": "admin"
       }
     ]
   }
