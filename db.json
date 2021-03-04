@@ -34,17 +34,6 @@
         "operation": "Salle"
       },
       {
-        "id": 7,
-        "name": "PES 20",
-        "prix": 10,
-        "quantite": "11",
-        "categorie": "1",
-        "plateforme": "PS4",
-        "etat": "Occasion",
-        "description": "Jeux de ......",
-        "operation": "Salle"
-      },
-      {
         "id": 8,
         "name": "FIFA 20",
         "prix": 10,
@@ -234,9 +223,9 @@
     ],
     "jeuxOperation": [
       {
-        "id": 2,
-        "name": "Call of Duty - Warzone",
-        "prix": "111",
+        "id": 20,
+        "name": "Rigs",
+        "prix": 10,
         "quantite": 1,
         "categorie": "1",
         "plateforme": "PS4",
@@ -245,9 +234,9 @@
         "operation": "Salle"
       },
       {
-        "id": 3,
-        "name": "Fortnite",
-        "prix": "15",
+        "id": 21,
+        "name": "Astro Bot Rescue Mission - VR",
+        "prix": 10,
         "quantite": 1,
         "categorie": "1",
         "plateforme": "PS4",
@@ -256,9 +245,9 @@
         "operation": "Salle"
       },
       {
-        "id": 3,
-        "name": "Fortnite",
-        "prix": "15",
+        "id": 22,
+        "name": "Hustle Kings - VR",
+        "prix": 10,
         "quantite": 1,
         "categorie": "1",
         "plateforme": "PS4",
@@ -267,9 +256,9 @@
         "operation": "Salle"
       },
       {
-        "id": 3,
-        "name": "Fortnite",
-        "prix": "15",
+        "id": 23,
+        "name": "NBA 2k17",
+        "prix": 10,
         "quantite": 1,
         "categorie": "1",
         "plateforme": "PS4",
@@ -278,39 +267,22 @@
         "operation": "Salle"
       },
       {
-        "id": 3,
-        "name": "Fortnite",
-        "prix": "15",
+        "id": 24,
+        "name": "Ratchet & clank",
+        "prix": 10,
         "quantite": 1,
         "categorie": "1",
         "plateforme": "PS4",
         "etat": "Occasion",
         "description": "Jeux de ......",
         "operation": "Salle"
-      },
-      {
-        "id": 3,
-        "name": "Fortnite",
-        "prix": "15",
-        "quantite": 1,
-        "categorie": "1",
-        "plateforme": "PS4",
-        "etat": "Occasion",
-        "description": "Jeux de ......",
-        "operation": "Salle"
-      }
+      }p
     ],
     "users": [
       {
         "Id": 0,
         "Username": "playspace",
         "Password": "Play123space",
-        "Role": "admin"
-      },
-      {
-        "Id": 1,
-        "Username": "a",
-        "Password": "a",
         "Role": "admin"
       }
     ]
